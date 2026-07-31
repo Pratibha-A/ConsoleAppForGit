@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from C# to Git");
-            Console.WriteLine("Test message 1");
+            Console.WriteLine("First Test message from User 2");
             Console.WriteLine("Test message 2");
         }
     }
