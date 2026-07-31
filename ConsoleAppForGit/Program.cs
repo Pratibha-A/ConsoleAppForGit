@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello from C# to Git");
             Console.WriteLine("First Test message from User 2");
-            Console.WriteLine("Test message 2");
+            Console.WriteLine("Second Test message from User 1");
         }
     }
 }
